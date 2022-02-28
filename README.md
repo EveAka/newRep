@@ -1,2 +1,2 @@
-# newRep
-This is a new Repo
+# newRepository
+This is a new Repository
